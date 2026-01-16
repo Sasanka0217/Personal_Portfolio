@@ -90,13 +90,6 @@ nav ul li a:hover::after{
     color: #ababab;
 }
 
-.about-col-1 img{
-    width: 450px;   /* change this value to make it smaller */
-    height: auto;   /* keeps image proportion */
-}
-
-
-
 .row{
     display: flex;
     justify-content: space-between;
@@ -494,11 +487,3 @@ nav .fa-solid{
     display: block;
 }
    
-
-
-
-
-
-
-
-
